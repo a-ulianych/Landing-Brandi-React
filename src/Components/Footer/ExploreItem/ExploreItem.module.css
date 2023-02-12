@@ -1,0 +1,26 @@
+.explore_title {
+    margin-bottom: 25px;
+
+    font-weight: 600;
+}
+
+.explore_links {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.explore_links a {
+    color: #fff;
+
+    transition: .2s;
+}
+
+.explore_links a:hover {
+    color: #00ffa7;
+}
+
+@media (max-width: 990px) {
+    .explore_links {
+        grid-template-columns: 1fr;
+    }
+}

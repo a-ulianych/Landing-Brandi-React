@@ -1,0 +1,13 @@
+.brandi_title {
+    margin-bottom: 20px;
+
+    font-size: 34px;
+    font-family: 'Pacifico', cursive;
+    font-weight: 400;
+}
+
+@media (max-width: 575px) {
+    .brandi_title {
+        font-size: 30px;
+    }
+}
