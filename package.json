@@ -1,7 +1,7 @@
 {
   "name": "brandi-app",
   "version": "0.1.0",
-  "homepage": "https://a-ulianych.github.io/Landing-Brandi",
+  "homepage": "https://a-ulianych.github.io/Landing-Brandi-React",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.3.0",
