@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Landing-Brandi-React/static/css/main.e9c2935e.css",
-    "main.js": "/Landing-Brandi-React/static/js/main.7c9dcbc6.js",
+    "main.js": "/Landing-Brandi-React/static/js/main.57da870c.js",
     "static/media/intro.jpg": "/Landing-Brandi-React/static/media/intro.a646afb44c44244a511c.jpg",
     "static/media/5.jpg": "/Landing-Brandi-React/static/media/5.b1d7c5fbf0614fcd4e8d.jpg",
     "static/media/4.jpg": "/Landing-Brandi-React/static/media/4.af61c521129e76b9473a.jpg",
@@ -13,10 +13,10 @@
     "static/media/2.jpg": "/Landing-Brandi-React/static/media/2.1584153ee840210a05ec.jpg",
     "index.html": "/Landing-Brandi-React/index.html",
     "main.e9c2935e.css.map": "/Landing-Brandi-React/static/css/main.e9c2935e.css.map",
-    "main.7c9dcbc6.js.map": "/Landing-Brandi-React/static/js/main.7c9dcbc6.js.map"
+    "main.57da870c.js.map": "/Landing-Brandi-React/static/js/main.57da870c.js.map"
   },
   "entrypoints": [
     "static/css/main.e9c2935e.css",
-    "static/js/main.7c9dcbc6.js"
+    "static/js/main.57da870c.js"
   ]
 }
