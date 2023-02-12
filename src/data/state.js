@@ -13,7 +13,7 @@ let store = {
         introText: {
             introTitle: {
                 title: "Meet",
-                titleBold: "Brandi"
+                titleBold: "Test"
             },
             introSubtitle: {
                 subtitleGreen: "/creative",
